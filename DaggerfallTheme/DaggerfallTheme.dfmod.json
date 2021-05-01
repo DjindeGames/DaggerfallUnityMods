@@ -1,0 +1,15 @@
+{
+    "ModTitle": "Daggerfall Main Theme",
+    "ModVersion": "1.0",
+    "ModAuthor": "Underking",
+    "DFUnity_Version": "0.11.1",
+    "ModDescription": "Adds Daggerfall's main theme in the game's main menu.",
+    "GUID": "051c35df-5704-4d15-87c2-079447c3f587",
+    "Files": [
+        "Assets/Game/Mods/DaggerfallTheme/modsettings.json",
+        "Assets/Game/Mods/DaggerfallTheme/Scripts/DaggerfallTheme.cs",
+        "Assets/Game/Mods/DaggerfallTheme/Songs/Pieces of 8-bit (Classic HQ).mp3",
+        "Assets/Game/Mods/DaggerfallTheme/Songs/Ramon Molesworth.mp3",
+        "Assets/Game/Mods/DaggerfallTheme/DaggerfallTheme.dfmod.json"
+    ]
+}
