@@ -1,0 +1,22 @@
+{
+    "Version": null,
+    "Sections": [
+        {
+            "Name": "Settings",
+            "Description": null,
+            "IsAdvanced": false,
+            "Keys": [
+                {
+                    "Min": 0.0,
+                    "Max": 10.0,
+                    "Value": 0.0,
+                    "Name": "EquipDelay",
+                    "Description": "How long it takes for your character to unsheathe newly equipped weapons.",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderFloatKey"
+                }
+            ],
+            "$version": "v1"
+        }
+    ]
+}

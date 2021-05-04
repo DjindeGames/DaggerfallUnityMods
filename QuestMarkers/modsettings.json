@@ -1,0 +1,43 @@
+{
+    "Version": null,
+    "Sections": [
+        {
+            "Name": "Settings",
+            "Description": null,
+            "IsAdvanced": false,
+            "Keys": [
+                {
+                    "Min": 0.1,
+                    "Max": 1.0,
+                    "Value": 0.5,
+                    "Name": "IconSize",
+                    "Description": null,
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderFloatKey"
+                },
+                {
+                    "Min": 8,
+                    "Max": 30,
+                    "Value": 24,
+                    "Name": "FontSize",
+                    "Description": null,
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+                {
+                    "Value": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 0
+                    },
+                    "Name": "MarkerColor",
+                    "Description": null,
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.ColorKey"
+                }
+            ],
+            "$version": "v1"
+        }
+    ]
+}

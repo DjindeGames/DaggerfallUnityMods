@@ -1,0 +1,16 @@
+{
+    "ModTitle": "Quest Markers",
+    "ModVersion": "1.0",
+    "ModAuthor": "Underking",
+    "DFUnity_Version": "0.11.1",
+    "ModDescription": "Adds objective markers to the game",
+    "GUID": "c21aa1fb-22ec-46ec-9aed-83341f63fd4c",
+    "Files": [
+        "Assets/Game/Mods/QuestMarkers/modsettings.json",
+        "Assets/Game/Mods/QuestMarkers/Scripts/QuestMarkerComponent.cs",
+        "Assets/Game/Mods/QuestMarkers/Scripts/QuestMarkers.cs",
+        "Assets/Game/Mods/QuestMarkers/Prefabs/QuestMarker.prefab",
+        "Assets/Game/Mods/QuestMarkers/Prefabs/QuestMarkersCanvas.prefab",
+        "Assets/Game/Mods/QuestMarkers/Images/marker.png"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "ModTitle": "No Equip Delay",
+    "ModVersion": "1.0",
+    "ModAuthor": "Underking",
+    "DFUnity_Version": "0.11.1",
+    "ModDescription": "Allows the player to override vanilla equip delay with custom ones.",
+    "GUID": "f59ba3d2-a582-4063-960b-647137fdb7b0",
+    "Files": [
+        "Assets/Game/Mods/NoEquipDelay/Scripts/NoEquipDelay.cs",
+        "Assets/Game/Mods/NoEquipDelay/modsettings.json",
+        "Assets/Game/Mods/NoEquipDelay/NoEquipDelay.dfmod.json"
+    ]
+}
